@@ -1,0 +1,8 @@
+{
+    "inline_keyboard":[
+        [{"text":"Ping \ud83c\udfd3", "callback_data":"ping"}],
+        [{"text":"Perform nmap -sn \ud83d\udd0e", "callback_data":"nmap_sn"}],
+        [{"text":"Perform nmap -sT -O \ud83d\udd75", "callback_data":"nmap_sT_O"}],
+        [{"text":"Menu \ud83d\udcdc", "callback_data":"menu"}]
+        ]
+}
